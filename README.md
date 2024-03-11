@@ -1,2 +1,2 @@
 # factorizing-with-elliptic-curves
-Learning to implement algorithms to factorize large primes using elliptic curves.
+I plan to use this repository at some point to implement algorithms for factorizing and primality testing using elliptic curves.
